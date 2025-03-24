@@ -18,7 +18,7 @@ WhatsFlow is designed especially for small and medium-sized businesses that want
 
 1. **Plan Your Flow:** Describe your customer journey in simple terms.
 2. **Generate a Visual Blueprint:** WhatsFlow uses AI to create a visual map of your planned WhatsApp conversation.
-3. **Deploy & Engage:** Use your flow to guide customers, answer their questions, and drive more business—all within WhatsApp.
+3. **Deploy & Engage:** Use your flow to guide customers, answer their questions, and drive more business.
 
 WhatsFlow puts the power of automation and intelligent design into your hands, so you can focus on growing your business and connecting with your customers.
 
